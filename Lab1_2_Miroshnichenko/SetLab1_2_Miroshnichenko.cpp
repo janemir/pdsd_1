@@ -93,24 +93,3 @@ Node* deleteSet(Node* head) {
     }
     return nullptr;
 }
-
-//#include "SetLab1_2_Miroshnichenko.h"
-//#include <iostream>
-//#include <cstdlib>
-//#include <ctime>
-//#include <sstream> 
-//
-//using namespace std;
-//
-
-//
-
-//
-
-//
-
-//
-
-//
-
-//
